@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Student_TestScore_Prediction
+Version: 0.0.1
+Author: Shiva Shankar
+Author-email: kammarishivashankarr@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn

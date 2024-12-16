@@ -1,0 +1,7 @@
+README.md
+setup.py
+Student_TestScore_Prediction.egg-info/PKG-INFO
+Student_TestScore_Prediction.egg-info/SOURCES.txt
+Student_TestScore_Prediction.egg-info/dependency_links.txt
+Student_TestScore_Prediction.egg-info/requires.txt
+Student_TestScore_Prediction.egg-info/top_level.txt
